@@ -1,6 +1,10 @@
 # AJORM
 Another Java ORM
 
+## DISCONTINUED
+AJORM is now part of [JavaWebStack](https://github.com/JavaWebStack/ORM)
+This repository still contains the old version which isn't maintained anymore. Consider using JavaWebStack instead.
+
 ## Introduction
 When it came to using an ORM Lib in java I used ORMLite before. It worked quite well, but I didn't like the query builder.
 
